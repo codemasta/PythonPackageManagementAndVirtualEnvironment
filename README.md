@@ -1,4 +1,4 @@
-# PythonPackageManagementAndVirtualEnvironment
+# Python Package Management And Virtual Environment
 
 pip => Package management    
 Virtual environments => projects and dependencies    
