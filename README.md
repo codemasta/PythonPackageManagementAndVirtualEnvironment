@@ -1,8 +1,8 @@
 # PythonPackageManagementAndVirtualEnvironment
 
-pip => Package management  
-Virtual environments => projects and dependencies  
-Virtualenvwrapper => making venv more convenient
+pip => Package management    
+Virtual environments => projects and dependencies    
+Virtualenvwrapper => making venv more convenient  
 
 pip list => list all installed packages and their dependencies  
 pip help => help   
@@ -113,8 +113,8 @@ After the 1st dependencies download it create 2 files : Pipfile and Pipfile.lock
 To run the script with pipenv command : **pipenv run** python webRequest.py    
 also you can start a new shell inside the active environment more like activate the environment.     
 
-**pipenv shell** python webRequest.py   
-**exit**  : to exit the shell
+**pipenv shell** python webRequest.py     
+**exit**  : to exit the shell  
 **pipenv install --three** : to install all dependencies in the pipfile
 
 
